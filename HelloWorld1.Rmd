@@ -2,7 +2,7 @@
 title: "Untitled"
 author: "ME!"
 date: "4/17/2020"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
